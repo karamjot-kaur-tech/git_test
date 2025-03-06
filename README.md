@@ -1,3 +1,1 @@
-# git_test
-Hello Readers!
-My personal Git playground. Used to test and learn Git functionalities.
+This repository serves as a testing ground for my approach, ensuring its viability before project integration.
