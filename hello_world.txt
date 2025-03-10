@@ -7,3 +7,5 @@ Test Commit 2
 Hard Commit 1
 
 Hard Commit 2
+
+Soft Commit 1
