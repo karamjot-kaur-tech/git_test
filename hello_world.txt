@@ -5,3 +5,5 @@ Test Commit 1
 Test Commit 2
 
 Hard Commit 1
+
+Hard Commit 2
