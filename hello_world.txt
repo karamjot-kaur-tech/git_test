@@ -15,7 +15,3 @@ Soft Commit 2
 Soft Commit 3
 
 Revert Commit 1
-
-Revert Commit 2
-
-Revert Commit 3
