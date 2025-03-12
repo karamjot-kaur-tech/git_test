@@ -9,3 +9,7 @@ Hard Commit 1
 Hard Commit 2
 
 Soft Commit 1
+
+Soft Commit 2
+
+Soft Commit 3
